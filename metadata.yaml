@@ -1,0 +1,31 @@
+_repo: Was-ich-geschaut-Novellen_64388
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Troll-Borostyání, Irma von
+    alias: Troll-Borostyani, Irma von
+    birthdate: 1847
+    deathdate: 1912
+    gutenberg_agent_id: '52882'
+    url: http://www.gutenberg.org/2009/agents/52882
+    wikipedia: https://de.wikipedia.org/wiki/Irma_von_Troll-Borosty%C3%A1ni
+description: ''
+gutenberg_issued: '2021-01-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64388'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Short stories, Austrian'
+- !lcsh 'Austrian fiction -- 19th century'
+- GITenberg
+tableOfContents: Erlöst! -- Justus -- Fallendes Laub -- Franzi's Weihnacht -- Der
+  Weg zum Herzen -- Weder Glück noch Stern -- Der Unwiderstehliche -- Schwer geprüft
+  -- »Es fiel ein Reif in der Frühlingsnacht« -- Der kleine Geiger -- Die Harfenspielerin
+  -- Sein Bild.
+title: 'Was ich geschaut: Novellen'
+url: http://www.gutenberg.org/ebooks/64388
